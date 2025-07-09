@@ -1,0 +1,5 @@
+streamlit
+pandas
+cuml
+scikit-learn
+pycaret[classifiers]
